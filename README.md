@@ -6,7 +6,7 @@ This Power BI project aims to analyze employee attrition data to identify key fa
 ---
 
 # Dashboard Preview
-Screenshot 2026-09-03 102853.png
+![HR Analytics Dashboard](Screenshot%202026-09-03%20102853.png)
 
 ---
 
